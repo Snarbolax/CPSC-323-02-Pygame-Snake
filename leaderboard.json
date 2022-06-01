@@ -1,0 +1,12 @@
+{
+    "First Place": {"Date": "1999/12/31", "Time Played (in seconds)": 1000, "Score": 1000},
+    "Second Place":{"Date": "1999/12/31", "Time Played (in seconds)": 900, "Score": 900},
+    "Third Place":{"Date": "1999/12/31", "Time Played (in seconds)": 800, "Score": 800},
+    "Fourth Place":{"Date": "1999/12/31", "Time Played (in seconds)": 700, "Score": 700},
+    "Fifth Place":{"Date": "1999/12/31", "Time Played (in seconds)": 600, "Score": 600},
+    "Sixth Place":{"Date": "1999/12/31", "Time Played (in seconds)": 500, "Score": 500},
+    "Seventh Place":{"Date": "1999/12/31", "Time Played (in seconds)": 400, "Score": 400},
+    "Eighth Place":{"Date": "1999/12/31", "Time Played (in seconds)": 300, "Score": 300},
+    "Ninth Place":{"Date": "1999/12/31", "Time Played (in seconds)": 200, "Score": 200},
+    "Tenth Place":{"Date": "1999/12/31", "Time Played (in seconds)": 100, "Score": 100}
+}

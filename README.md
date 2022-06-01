@@ -5,7 +5,7 @@
 <ul>
 <li>Name: Kenneth Doan</li>
 <li>Class: CPSC 386-01</li>
-<li>Date: 2020/04/26</li>
+<li>Date: 2020/05/21</li>
 <li>Email Address: snarbolax@csu.fullerton.edu</li></ul>
 
 **License(s)**
@@ -18,7 +18,7 @@
 
 <h1>grsites.com Info</h1>
 
-<p>Website accessed from <a href="https://www.pygame.org/wiki/resources">https://www.pygame.org/wiki/resources/</a> under "Roytalty-Free Sound Effects".</p>
+<p>Website accessed from <a href="https://www.pygame.org/wiki/resources">https://www.pygame.org/wiki/resources/</a> under "Royalty-Free Sound Effects".</p>
 
 **From grsites.com**:
 
